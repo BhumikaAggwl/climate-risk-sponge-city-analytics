@@ -146,6 +146,7 @@ Visualize climate risk hotspots across India.
 ### 📈 SCRI Distribution Analysis
 
 Explore score distributions and climate patterns.
+![Distribution_SCRI](images/scri_distribution.png)
 
 ### 🧩 Risk Tier Breakdown
 
