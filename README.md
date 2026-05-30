@@ -151,12 +151,13 @@ Explore score distributions and climate patterns.
 ### 🧩 Risk Tier Breakdown
 
 Analyze regional risk categories.
-![Risk_analysis](images/feature_analysis.png)
+![Risk_analysis](images/risk_tier.png)
 
+### 📊 Feature-Based Risk Analysis
 
-### 🚨 Critical Hotspot Identification
+Explore the relationship between climate indicators and risk categories. This visualization highlights how factors such as dry days and rainfall variability contribute to different levels of climate stress.
 
-Locate high-priority climate risk zones.
+![Risk Analysis](images/feature_analysis.png)
 
 ### 📥 Downloadable Data
 
