@@ -151,6 +151,8 @@ Explore score distributions and climate patterns.
 ### 🧩 Risk Tier Breakdown
 
 Analyze regional risk categories.
+![Risk_analysis](images/feature_analysis.png)
+
 
 ### 🚨 Critical Hotspot Identification
 
@@ -159,6 +161,7 @@ Locate high-priority climate risk zones.
 ### 📥 Downloadable Data
 
 Export processed datasets for further analysis.
+![dataset](images/dataset.png)
 
 ---
 
